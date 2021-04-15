@@ -1,4 +1,4 @@
-# QML_admin_panel
+# QML admin panel
 a simple admin panel
 
 ![](https://github.com/mmjvox/QML_admin_panel/raw/main/screencapture.png)
