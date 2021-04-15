@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Card_Bar.qml</file>
+        <file>Card_Line.qml</file>
+        <file>Card_Line_Point.qml</file>
+        <file>Card_Area_Line.qml</file>
+        <file>Card_Period.qml</file>
+        <file>Card_Pie.qml</file>
+    </qresource>
+</RCC>
